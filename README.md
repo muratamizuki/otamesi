@@ -2,7 +2,7 @@
 front React native Expo
 back fastAPI
 React nativeはreactでネイティブを開発できるフレームワーク
-ExpoはXcode,Androidstudo使わなくても手元のデバイスでデバックできたりするから使ってみたくて入れた（--Xcodeの環境構築めんどくさいし--）
+ExpoはXcode,Androidstudo使わなくても手元のデバイスでデバックできたりするから使ってみたくて入れた（~~Xcodeの環境構築めんどくさいし~~）
 
 ## 環境構築
 
