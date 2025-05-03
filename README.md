@@ -9,10 +9,11 @@ ExpoはXcode,Androidstudo使わなくても手元のデバイスでデバック�
 以下の手順に従って開発環境をセットアップしてください。
 
 0. **Expo Goのアプリをダンロード**:
+    App Storeだったり各自適当な場所で
 
 1. **Dockerコンテナを構築**:
-   ```zsh
-   docker-compose build
+    ```zsh
+    docker-compose build
 
 1分ちょいで終わる
 
@@ -20,8 +21,8 @@ ExpoはXcode,Androidstudo使わなくても手元のデバイスでデバック�
     ```zsh
     docker-compose up 
 3. **ブラウザでアクセス**:  
-   front
-   docker起動後に出てくるQRコードを読み込み
-   back
-   `http://localhost:8000/`
+    front
+    docker起動後に出てくるQRコードを読み込み
+    back
+    `http://localhost:8000/`
 ---
